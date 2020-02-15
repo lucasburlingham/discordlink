@@ -1,8 +1,7 @@
-# discordlink
+# Discordlink
 
 Minetest Mod
 This mod is simply a chat command.
-When a user uses the chat command "/discordlink", the server prints "Discord Permalink: https://discord.gg/<insert here>".
+When a user uses the chat command "/discordlink", the server prints "Discord Permalink: https://discord.gg/[insert here]".
 
 Please replace https://discord.gg/SGwQ4v9 in the file "init.lua" with a link of your own (and it shouldn't expire, cause of obvious reasons!)
-This mod is under the MIT license, and written by Lucas Burlingham (Jovark Realms Admin, github.com/lucasburlingham.)
