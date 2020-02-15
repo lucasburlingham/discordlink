@@ -1,4 +1,4 @@
-# Discord :ink
+# Discord Link
 
 Minetest Mod
 This mod is simply a chat command.
