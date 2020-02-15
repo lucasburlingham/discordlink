@@ -1,0 +1,6 @@
+Adds the Discord Permalink chat command to Minetest.
+All users see the link.
+
+Example:
+[User]: /dicordlink
+[Server]: Discord Permalink: https://discord.gg/SGwQ4v9"
