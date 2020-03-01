@@ -1,6 +1,5 @@
 # Discord Link
 
-Minetest Mod
 This mod is simply a chat command.
 When a user uses the chat command "/discordlink", the server prints "Discord Permalink: https://discord.gg[inserthere]".
 
