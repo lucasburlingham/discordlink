@@ -1,0 +1,32 @@
+{
+  "name": "Discord Link",
+  "description": "Discord Permalink mod for Minetest",
+  "version": "1.0.5",
+  "keywords": [
+    "Minetest",
+    "Minetest Mod",
+    "Discord"
+  ],
+  "maintainers": [
+    {
+      "name": "Lucas Burlingham",
+      "email": "lucas.burlingham@icloud.com",
+      "web": "https://github.com/lucasburlingham"
+    }
+  ],
+  "dependencies": {
+    "minetest_game": ""
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/lucasburlingham/discordlink.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "MIT License",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  ]
+}
