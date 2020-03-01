@@ -8,5 +8,4 @@ Please replace https://discord.gg/SGwQ4v9 in the file "init.lua" with a link of 
 
 First used on the Jovark Realms Server.
   <b>Jovark Realms</b>
-  <code>jovarkrealms.ddns.net<br>
-  <p>:30000</p></code>
+  <code>jovarkrealms.ddns.net<br>:30000</code>
