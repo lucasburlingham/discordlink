@@ -9,7 +9,7 @@ minetest.register_chatcommand("discordlink", {
 
 minetest.register_chatcommand("discordlink_admin", {
     privs = {
-    admin = true,
+    server = true,
     },
     func = function(name, param)
         minetest.chat_send_all("Discord Permalink: https://discord.gg/SGwQ4v9")
