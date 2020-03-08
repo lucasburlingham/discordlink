@@ -10,4 +10,4 @@ First used on the Jovark Realms Server.
   <code>jovarkrealms.ddns.net<br>:30000</code>
 
 
-Contributions: Lucas Burlingham (simondanerd, Jovark Realms Server Admin) and diegojsrw (Jovark Realms Player)
+Contributions: Lucas Burlingham (simondanerd, Jovark Realms Server Admin),  diegojsrw (Jovark Realms Player), and NoNameDude (Also a player).
