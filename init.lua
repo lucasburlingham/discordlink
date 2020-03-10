@@ -30,8 +30,32 @@ minetest.register_chatcommand("discordlink_sendto", {
     func = function(name, param)
     local player = minetest.get_player_by_name(param)
     if not player then
-        return true, "Sorry, the Player referenced is not online."
+        return true, "Sorry, the player referenced is not online."
     end
     minetest.chat_send_player(param, "Discord Permalink: https://discord.gg/SGwQ4v9")
     end
+})
+
+
+minetest.register_node("discordlink:discord_node", {
+	description = "Block with Discord Logo on it to promote a Discord server",
+	tiles = {
+		"discordlink_discord_node.png", -- top
+		"discordlink_discord_node.png", -- bottom
+		"discordlink_discord_node.png", -- right
+		"discordlink_discord_node.png", -- left
+		"discordlink_discord_node.png", -- back
+		"discordlink_discord_node.png"  -- front
+	},
+	groups = {oddly_breakable_by_hand = 2}
+})
+
+minetest.register_craft({
+	output = "discord_node",
+	type = "shapeless",
+	recipe = {
+		{"dye:violet", "", ""},
+		{"default:dirt", "", ""},
+		{"default:mese_crystal", "", ""},
+	}
 })
