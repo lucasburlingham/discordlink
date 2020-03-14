@@ -1,7 +1,7 @@
 {
-  "name": "Discord Link",
+  "name": "Discord Utilities",
   "description": "Discord Permalink mod for Minetest",
-  "version": "1.0.5",
+  "version": "1.1.5",
   "keywords": [
     "Minetest",
     "Minetest Mod",
@@ -20,7 +20,7 @@
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/lucasburlingham/discordlink.git"
+      "url": "https://github.com/lucasburlingham/discordutilities.git"
     }
   ],
   "licenses": [
